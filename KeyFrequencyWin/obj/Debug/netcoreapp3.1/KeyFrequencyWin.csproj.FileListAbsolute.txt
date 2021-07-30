@@ -1,0 +1,15 @@
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\bin\Debug\netcoreapp3.1\KeyFrequencyWin.exe
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\bin\Debug\netcoreapp3.1\KeyFrequencyWin.deps.json
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\bin\Debug\netcoreapp3.1\KeyFrequencyWin.runtimeconfig.json
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\bin\Debug\netcoreapp3.1\KeyFrequencyWin.runtimeconfig.dev.json
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\bin\Debug\netcoreapp3.1\KeyFrequencyWin.dll
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\bin\Debug\netcoreapp3.1\KeyFrequencyWin.pdb
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.csproj.AssemblyReference.cache
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.csproj.GenerateResource.cache
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.AssemblyInfoInputs.cache
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.AssemblyInfo.cs
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.csproj.CoreCompileInputs.cache
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.dll
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.pdb
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.genruntimeconfig.cache
+D:\project\KeyFrenquency\KeyFrequencyWin\KeyFrequencyWin\obj\Debug\netcoreapp3.1\KeyFrequencyWin.Form1.resources
